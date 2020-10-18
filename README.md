@@ -1,5 +1,6 @@
 <h1 align="center">Projeto Happy da NLW #03</h1>
 
+<img src="https://github.com/Anderson026/Happy-NLW-03-Rocketseat/blob/main/Happy.PNG">
 <p align="center">Happy é uma aplicação com o objetivo de incentivar as pessoas a visitarem as casas de acolhimento institucional e levar a felicidade as crianças.</p>
 
 Tecnologias utilizadas:

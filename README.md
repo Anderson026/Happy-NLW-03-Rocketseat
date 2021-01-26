@@ -10,7 +10,7 @@ Tecnologias utilizadas:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-<p align="start">Projeto feito com o objetivo de ter uma visão gerão e prática dos conceitos de React JS e React Native.</p>
+<p align="start">Projeto feito com o objetivo de ter uma visão geral e prática dos conceitos de React JS e React Native.</p>
 
 Agradecimentos:
 <p>Quero agradecer a toda a equipe da <a href="https://rocketseat.com.br/" target="_blank" >Rocketseat</a> por proporcionar essa oportunidade de avançar para o próximo nível.</p>
